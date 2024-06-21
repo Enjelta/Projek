@@ -7,7 +7,7 @@
 ```
 conda create -n nama_env python=3.10.0
 ```
-* Clone repositories : https://github.com/Enjelta/PA_K2-Matrix.git
+* Clone repositories : https://github.com/Enjelta/Projek.git
 
 
 ketik
